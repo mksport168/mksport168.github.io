@@ -65,6 +65,12 @@ img {
     border: 0;
 }
 
+.container_a{
+    text-decoration: none;
+    color: #999;
+    font-size: 1.2em;
+}
+
 .clr {
     clear: both;
 }
